@@ -3,3 +3,6 @@ Visualisasi data yang pernah saya buat.
 
 File "Transaction_Report_AR_Fujiatna.pdf" dibuat dengan Looker Studio pada Rabu 29 Oktober 2025. 
 Berikut tautannya, https://lookerstudio.google.com/reporting/94ae608b-d7c8-44c7-ab38-ac56ecdd8926
+
+File "CC_Live_AR_Fujiatna.pdf" dibuat dengan Looker Studio pada Sabtu 1 November 2025.
+Berikut tautannya, https://lookerstudio.google.com/reporting/2d460eb9-40a5-4a4a-a591-0f9159861ce5
